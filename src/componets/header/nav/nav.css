@@ -1,0 +1,23 @@
+.Nav {
+  padding-top: 20px;
+  padding-bottom: 100px;
+  width: 250px;
+  transition: all 0.9s ease;
+  background: linear-gradient(175.93deg, #5F00D8 -10.23%, #B200F1 117.03%);
+}
+.hide {
+  transform: translateX(-400%);
+  transition: all 0.9s ease;
+}
+.Line {
+  width: 181.83px;
+  height: 0px;
+  left: 30.14px;
+  top: 116.79px;
+  opacity: 0.2;
+  border: 1px solid #FFFFFF;
+}
+
+.loading{
+  transform: translateX(-120%);
+}

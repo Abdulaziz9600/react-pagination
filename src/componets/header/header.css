@@ -1,0 +1,12 @@
+.header-item {
+  font-family: 'Lato' sans-serif;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 39px;
+  line-height: 47px;
+}
+.btn-pag {
+  display: block;
+  background: #10CD45;
+  border-radius: 5px;
+}
