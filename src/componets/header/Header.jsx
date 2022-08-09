@@ -1,6 +1,6 @@
 import React,{useRef} from 'react';
 import "./header.css"
-import Nav from './nav/Nav';
+import Nav from '../header/nav/Nav';
 const Header = ({loading,set}) => {
   
   // console.log(loading)
