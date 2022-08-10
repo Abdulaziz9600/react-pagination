@@ -43,7 +43,7 @@ const paginat= (num) =>{
     <div className='container-xl'>
       <div className='row'>
         <div className='col-3 pb-5'><Header loading={loading} set={setLoading}/></div>
-        <div className='col-9 pt-5'><Main num={dataNew} paginat={paginat} /></div>
+        <div className='col-9 pt-5 pb-5'><Main num={dataNew} paginat={paginat} /></div>
       </div>
     </div>
     </dataContext.Provider>
