@@ -1,6 +1,6 @@
 import React from 'react';
 import NavLogo from '../../../assets/img/Logo.svg'
-import Notion from '../../../assets/img/Notion.png'
+import Notion from '../../../assets/img/notion.png'
 import Cloud from '../../../assets/img/cloud.png'
 import Diomnd from '../../../assets/img/dimond.png'
 import Elic from '../../../assets/img/elcis.png'
